@@ -20,23 +20,23 @@ The original dataset used :
 
 About the script :
 
-# Downloading and unzipping dataset
+1. Downloading and unzipping dataset
 
-# Read in the data from files
+2. Read in the data from files
 
-# Assign column names to the data imported above
+3. Assign column names to the data imported above
 
-# Merging all data in one set
+4. Merging all data in one set
 
-# Create a vector for the column names from the final data which will be used to select the desired mean() & stddev() columns
+5. Create a vector for the column names from the final data which will be used to select the desired mean() & stddev() columns
 
-# Making necessary subset from merge_all
+6. Making necessary subset from merge_all
 
-# Merging the tidyData with activityType to include descriptive activity names
+7. Merging the tidyData with activityType to include descriptive activity names
 
-# Making second tidy data set
+8. Making second tidy data set
 
-# Export the tidyData set 
+9. Export the tidyData set 
 
 
 
