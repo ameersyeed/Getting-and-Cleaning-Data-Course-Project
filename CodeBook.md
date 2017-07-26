@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 The script run_analysis.R performs the 5 steps described in the course project's definition.
 
@@ -12,7 +12,7 @@ The script run_analysis.R performs the 5 steps described in the course project's
 
 - Finally, we generate a new dataset with all the average measures for each subject and activity type (30 subjects * 6 activities = 180 rows). The output file is called averages_data.txt, and uploaded to this repository.
 
-#Variables
+# Variables
 
 -> x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 
